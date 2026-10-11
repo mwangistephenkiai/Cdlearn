@@ -1,0 +1,4 @@
+{
+  "name": "Flutter Environment",
+  "image": "ghcr.io/cirruslabs/flutter:stable"
+}
